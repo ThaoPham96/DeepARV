@@ -15,4 +15,4 @@ DDI risks between ARVs and comedication is available at (https://www.hiv-drugint
 
 ### Usages
 Find DeepARV_API file for example. Given a drug pair of ARV and comedication of interest, our pre-trained DeepARV will ouput the DDI risk with confidence level. 
-![Example](
+![Example](example_output.png)
