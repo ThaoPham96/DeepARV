@@ -14,4 +14,5 @@ DeepARV includes pre-trained model and evaluation.
 DDI risks between ARVs and comedication is available at (https://www.hiv-druginteractions.org/).
 
 ### Usages
-Find DeepARV_API file for user-friendly platform using Google Colab. It allows users to input a drug pair of ARV and comedication of interest, our pre-trained DeepARV will ouput the DDI risk with confidence level. 
+Find DeepARV_API file for example. Given a drug pair of ARV and comedication of interest, our pre-trained DeepARV will ouput the DDI risk with confidence level. 
+![Example](
