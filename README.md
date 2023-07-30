@@ -9,7 +9,7 @@ Due to the importance of DDIs throughout drug development and for the clinical m
 - pubchempy version updated March 2019
 - tensorflow version 2.12.0
 
-### Codes
+### Codes and data availability
 DeepARV includes pre-trained model and evaluation.
 DDI risks between ARVs and comedication is available at (https://www.hiv-druginteractions.org/).
 
