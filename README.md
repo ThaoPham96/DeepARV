@@ -18,6 +18,6 @@ Find DeepARV_API file for example. Given a drug pair of ARV and comedication of 
 ![Example](example_output.png)
 
 ### Contact
-Please feel free to contact me for any questions
+Please feel free to contact me for any questions.
 
 Email: thao.pham@liverpool.ac.uk
