@@ -10,11 +10,11 @@ Due to the importance of DDIs throughout drug development and for the clinical m
 - tensorflow version 2.12.0
 
 ### Codes and data availability
-DeepARV includes pre-trained model and evaluation.
+DeepARV includes trained models of DeepARV-Sim and DeepARV-ChemBERTa models and their evaluation.
 DDI risks between ARVs and comedication is available at (https://www.hiv-druginteractions.org/).
 
 ### Usages
-Find DeepARV_API file for example. Given a drug pair of ARV and comedication of interest, our pre-trained DeepARV will ouput the DDI risk with confidence level. 
+Find DeepARV_Sim_PubChemAPI and DeepARV_Chemberta_PubChemAPI files for example. Given a drug pair of ARV and comedication of interest, our pre-trained DeepARV will ouput the DDI risk with confidence level. 
 ![Example](example_output.png)
 
 ### Contact
