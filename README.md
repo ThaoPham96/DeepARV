@@ -19,7 +19,7 @@ Due to the importance of DDIs throughout drug development and for the clinical m
 - DDI risks between ARVs and comedication is available at https://www.hiv-druginteractions.org/.
 
 ### Usages
-Find DeepARV_Sim_PubChemAPI and DeepARV_Chemberta_PubChemAPI files for example. Given a drug pair of ARV and comedication of interest, our trained DeepARV-Sim or DeepARV-ChemBERTa will ouput the DDI risk via 5 iterations. 
+Find DeepARV_Sim_PubChemAPI and DeepARV_Chemberta_PubChemAPI files for example. Given a drug pair of ARV and comedication of interest, our trained DeepARV-Sim or DeepARV-ChemBERTa will ouput the DDI clinical risk via 5 iterations. 
 ![Example](example_output.png)
 
 ### Contact
