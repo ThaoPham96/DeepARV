@@ -11,8 +11,11 @@ Due to the importance of DDIs throughout drug development and for the clinical m
 
 ### Codes and data availability
 The constructions of both models, DeepARV-Sim and DeepARV-ChemBERTa, are available at notebook namely, 'DeepARV_Sim_construction_revised.ipynb' and 'DeepARV_Chemberta_construction_revised.ipynb', respectively.
+
 The evaluation of their performance is available at 'DeepARV_Sim_evaluation.ipynb' and 'DeepARV_Chemberta_evaluation.ipynb'.
+
 Trained models are available at https://drive.google.com/drive/folders/1tCzeQrZ8TiwtFk-dEg5tUO6v9dOdk6n6?usp=drive_link.
+
 DDI risks between ARVs and comedication is available at https://www.hiv-druginteractions.org/.
 
 ### Usages
