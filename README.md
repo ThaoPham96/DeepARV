@@ -10,13 +10,13 @@ Due to the importance of DDIs throughout drug development and for the clinical m
 - tensorflow version 2.12.0
 
 ### Codes and data availability
-The constructions of both models, DeepARV-Sim and DeepARV-ChemBERTa, are available at notebook namely, 'DeepARV_Sim_construction_revised.ipynb' and 'DeepARV_Chemberta_construction_revised.ipynb', respectively.
+- The constructions of both models, DeepARV-Sim and DeepARV-ChemBERTa, are available at notebook namely, 'DeepARV_Sim_construction_revised.ipynb' and 'DeepARV_Chemberta_construction_revised.ipynb', respectively.
 
-The evaluation of their performance is available at 'DeepARV_Sim_evaluation.ipynb' and 'DeepARV_Chemberta_evaluation.ipynb'.
+- The evaluation of their performance is available at 'DeepARV_Sim_evaluation.ipynb' and 'DeepARV_Chemberta_evaluation.ipynb'.
 
-Trained models are available at https://drive.google.com/drive/folders/1tCzeQrZ8TiwtFk-dEg5tUO6v9dOdk6n6?usp=drive_link.
+- Trained models are available at https://drive.google.com/drive/folders/1tCzeQrZ8TiwtFk-dEg5tUO6v9dOdk6n6?usp=drive_link.
 
-DDI risks between ARVs and comedication is available at https://www.hiv-druginteractions.org/.
+- DDI risks between ARVs and comedication is available at https://www.hiv-druginteractions.org/.
 
 ### Usages
 Find DeepARV_Sim_PubChemAPI and DeepARV_Chemberta_PubChemAPI files for example. Given a drug pair of ARV and comedication of interest, our trained DeepARV-Sim or DeepARV-ChemBERTa will ouput the DDI risk via 5 iterations. 
