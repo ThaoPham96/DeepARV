@@ -28,3 +28,4 @@ Find DeepARV_Sim_PubChemAPI and DeepARV_Chemberta_PubChemAPI files for example. 
 Please feel free to contact me for any questions.
 
 Email: thao.pham@liverpool.ac.uk
+#### Please cite us if you find this study helpful
